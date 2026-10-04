@@ -24,8 +24,10 @@ Every course is a puzzle piece. The notes are the edges that connect them, and o
 | `nginx/` | Nginx 核心技术篇 + 高级进阶篇 |
 | `redis/` | Redis 基础篇、高阶篇与脑图 |
 | `xiaolincoding/` | 小林 coding 学习资料 · 官方链接索引 |
-| `分布式锁/` | 分布式锁专题 |
-| `推荐系统/` | 深度学习推荐系统 |
+| `gin/` | Go Gin Web 框架 |
+| `grpc/` | gRPC 远程调用框架 |
+| `distributed-lock/` | 分布式锁专题 |
+| `recommender-systems/` | 深度学习推荐系统 |
 
 ## How Notes Are Organized
 
