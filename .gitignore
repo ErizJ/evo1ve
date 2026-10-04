@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# 敏感信息 —— 真实凭证绝不入库
+.env
+
+# 工具/软件安装包（可从官网下载，不纳入笔记仓库）
+k8s/叩丁狼/软件与配置-opt_k8s.zip
+k8s/叩丁狼/软件与配置-harbor-offline-installer-v2.5.0.tgz
+k8s/叩丁狼/软件与配置-helm-v3.10.2-linux-amd64.tar.gz
+分布式锁/工具/
+redis/基础篇/8.Redis复制(replica)/redis-windows-master.zip
