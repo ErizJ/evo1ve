@@ -23,7 +23,7 @@ Every course is a puzzle piece. The notes are the edges that connect them, and o
 | `mysql/` | MySQL（黑马 + 尚硅谷） |
 | `nginx/` | Nginx 核心技术篇 + 高级进阶篇 |
 | `redis/` | Redis 基础篇、高阶篇与脑图 |
-| `xiaolincoding/` | 小林 coding 图解系列归档（网络 / 系统 / MySQL / Redis） |
+| `xiaolincoding/` | 小林 coding 学习资料 · 官方链接索引 |
 | `分布式锁/` | 分布式锁专题 |
 | `推荐系统/` | 深度学习推荐系统 |
 
