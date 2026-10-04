@@ -109,7 +109,7 @@ https://bitbucket.org/nginx-goodies/nginx-sticky-module-ng/get/1.2.6.zip
 
 **如遇报错修改源码**
 
-![image-20220513181435310](image-20220513181435310.png)
+> 原笔记此处有一张 make 编译报错的终端截图（报错为 cc1 的 warnings treated as errors，需修改 sticky 模块 `ngx_http_sticky_misc.c` 源码后重新编译），原图已失效，操作要点如上所述。
 
 
 
@@ -3252,7 +3252,7 @@ lua_code_cache off;
 
 reload后Nginx会提示影响性能，记得在生产环境中关掉。
 
-![1569585068623](1569585068623.png)
+> 原笔记此处有一张 reload 时的提示截图（`lua_code_cache is off` 性能警告），原图已失效。
 
 ### 测试
 

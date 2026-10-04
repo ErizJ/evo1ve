@@ -4,7 +4,7 @@
 
 ## Linux的目录结构
 
-![image-20221027214128453](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027214128.png)
+![image-20221027214128453](images/20221027214128.png)
 
 - `/`，根目录是最顶级的目录了
 - Linux只有一个顶级目录：`/`
@@ -303,15 +303,15 @@ FinalShell登陆终端后，默认的工作目录就是用户的HOME目录
 
 ### 命令模式快捷键
 
-![image-20221027215841573](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027215841.png)
+![image-20221027215841573](images/20221027215841.png)
 
-![image-20221027215846581](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027215846.png)
+![image-20221027215846581](images/20221027215846.png)
 
-![image-20221027215849668](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027215849.png)
+![image-20221027215849668](images/20221027215849.png)
 
 ### 底线命令快捷键
 
-![image-20221027215858967](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027215858.png)
+![image-20221027215858967](images/20221027215858.png)
 
 
 
@@ -331,13 +331,13 @@ FinalShell登陆终端后，默认的工作目录就是用户的HOME目录
 
 可以通过：`命令 --help`查看命令的帮助手册
 
-![image-20221027220005610](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027220005.png)
+![image-20221027220005610](images/20221027220005.png)
 
 ### 查看命令的详细手册
 
 可以通过：`man 命令`查看某命令的详细手册
 
-![image-20221027220009949](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027220010.png)
+![image-20221027220009949](images/20221027220010.png)
 
 
 
@@ -411,19 +411,19 @@ FinalShell登陆终端后，默认的工作目录就是用户的HOME目录
 
 - 按照2022-01-01的格式显示日期
 
-  ![image-20221027220514640](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027220514.png)
+  ![image-20221027220514640](images/20221027220514.png)
 
 - 按照2022-01-01 10:00:00的格式显示日期
 
-  ![image-20221027220525625](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027220525.png)
+  ![image-20221027220525625](images/20221027220525.png)
 
 - -d选项日期计算
 
-  ![image-20221027220429831](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027220429.png)
+  ![image-20221027220429831](images/20221027220429.png)
 
   - 支持的时间标记为：
 
-    ![image-20221027220449312](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027220449.png)
+    ![image-20221027220449312](images/20221027220449.png)
 
 
 
@@ -433,7 +433,7 @@ FinalShell登陆终端后，默认的工作目录就是用户的HOME目录
 
 修改时区为中国时区
 
-![image-20221027220554654](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027220554.png)
+![image-20221027220554654](images/20221027220554.png)
 
 
 
@@ -526,13 +526,13 @@ FinalShell登陆终端后，默认的工作目录就是用户的HOME目录
 
 ## kill命令
 
-![image-20221027221303037](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027221303.png)
+![image-20221027221303037](images/20221027221303.png)
 
 
 
 ## nmap命令
 
-![image-20221027221241123](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027221241.png)
+![image-20221027221241123](images/20221027221241.png)
 
 
 
@@ -550,19 +550,19 @@ FinalShell登陆终端后，默认的工作目录就是用户的HOME目录
 
 语法：`ping [-c num] 参数`
 
-![image-20221027221129782](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027221129.png)
+![image-20221027221129782](images/20221027221129.png)
 
 
 
 ## wget命令
 
-![image-20221027221148964](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027221149.png)
+![image-20221027221148964](images/20221027221149.png)
 
 ## curl命令
 
-![image-20221027221201079](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027221201.png)
+![image-20221027221201079](images/20221027221201.png)
 
-![image-20221027221210518](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027221210.png)
+![image-20221027221210518](images/20221027221210.png)
 
 
 
@@ -576,13 +576,13 @@ FinalShell登陆终端后，默认的工作目录就是用户的HOME目录
 
 可用选项：
 
-![image-20221027221340729](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027221340.png)
+![image-20221027221340729](images/20221027221340.png)
 
 
 
 交互式模式中，可用快捷键：
 
-![image-20221027221354137](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027221354.png)
+![image-20221027221354137](images/20221027221354.png)
 
 
 
@@ -590,7 +590,7 @@ FinalShell登陆终端后，默认的工作目录就是用户的HOME目录
 
 查看磁盘占用
 
-![image-20221027221413787](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027221413.png)
+![image-20221027221413787](images/20221027221413.png)
 
 
 
@@ -598,9 +598,9 @@ FinalShell登陆终端后，默认的工作目录就是用户的HOME目录
 
 查看CPU、磁盘的相关信息
 
-![image-20221027221439990](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027221440.png)
+![image-20221027221439990](images/20221027221440.png)
 
-![image-20221027221514237](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027221514.png)
+![image-20221027221514237](images/20221027221514.png)
 
 
 
@@ -608,7 +608,7 @@ FinalShell登陆终端后，默认的工作目录就是用户的HOME目录
 
 查看网络统计
 
-![image-20221027221545822](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027221545.png)
+![image-20221027221545822](images/20221027221545.png)
 
 
 
@@ -659,7 +659,7 @@ FinalShell登陆终端后，默认的工作目录就是用户的HOME目录
 
 `zip [-r] 参数1 参数2 参数N`
 
-![image-20221027221906247](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027221906.png)
+![image-20221027221906247](images/20221027221906.png)
 
 
 
@@ -678,7 +678,7 @@ FinalShell登陆终端后，默认的工作目录就是用户的HOME目录
 
 `unzip [-d] 参数`
 
-![image-20221027221939899](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027221939.png)
+![image-20221027221939899](images/20221027221939.png)
 
 
 
@@ -690,13 +690,13 @@ FinalShell登陆终端后，默认的工作目录就是用户的HOME目录
 
 语法：`su [-] [用户]`
 
-![image-20221027222021619](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027222021.png)
+![image-20221027222021619](images/20221027222021.png)
 
 
 
 ## sudo命令
 
-![image-20221027222035337](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027222035.png)
+![image-20221027222035337](images/20221027222035.png)
 
 
 
@@ -720,7 +720,7 @@ itheima ALL=(ALL)       NOPASSWD: ALL
 
 - 权限，要设置的权限，比如755，表示：`rwxr-xr-x`
 
-  ![image-20221027222157276](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027222157.png)
+  ![image-20221027222157276](images/20221027222157.png)
 
 - 参数，被修改的文件、文件夹
 
@@ -736,19 +736,19 @@ itheima ALL=(ALL)       NOPASSWD: ALL
 
 语法：`chown [-R] [用户][:][用户组] 文件或文件夹`
 
-![image-20221027222326192](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027222326.png)
+![image-20221027222326192](images/20221027222326.png)
 
 
 
 ## 用户组管理
 
-![image-20221027222354498](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027222354.png)
+![image-20221027222354498](images/20221027222354.png)
 
 
 
 ## 用户管理
 
-![image-20221027222407618](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027222407.png)
+![image-20221027222407618](images/20221027222407.png)
 
 
 
@@ -756,11 +756,11 @@ itheima ALL=(ALL)       NOPASSWD: ALL
 
 - `getenv group`，查看系统全部的用户组
 
-  ![image-20221027222446514](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027222446.png)
+  ![image-20221027222446514](images/20221027222446.png)
 
 - `getenv passwd`，查看系统全部的用户
 
-  ![image-20221027222512274](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027222512.png)
+  ![image-20221027222512274](images/20221027222512.png)
 
 
 
