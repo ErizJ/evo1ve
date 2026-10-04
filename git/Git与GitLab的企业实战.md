@@ -358,95 +358,95 @@ git reflog -n 数量
 
 https://git-scm.com/downloads/guis
 
-![1704960206158](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1704960206158.png)
+![1704960206158](image/1704960206158.png)
 
 ​    推荐下载使用GitHub Desktop。下载安装之后，选择不登录先进入页面。
 
-![1704960312687](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1704960312687.png)
+![1704960312687](image/1704960312687.png)
 
 ## 2. 基础操作
 
 ### 2.1 设置个人信息
 
-![1704960580138](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1704960580138.png)
+![1704960580138](image/1704960580138.png)
 
 ### 2.2 创建新的Git仓库
 
-![1704960497554](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1704960497554.png)
+![1704960497554](image/1704960497554.png)
 
 ### 2.3 提交不同版本
 
-![1704960800309](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1704960800309.png)
+![1704960800309](image/1704960800309.png)
 
 新创建文件1.txt，并写入信息。之后可以在GitGui上面进行提交。
 
-![1704961275801](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1704961275801.png)
+![1704961275801](image/1704961275801.png)
 
 多次提交的版本可以直接在History页面查看区别，不需要再使用reset命令。
 
-![1704962382919](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1704962382919.png)
+![1704962382919](image/1704962382919.png)
 
 ## 3. 连接GitHub远程仓库
 
 登录自己注册的账号
 
-![1705040350413](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705040350413.png)
+![1705040350413](image/1705040350413.png)
 
 点击Publish可以将当前项目创建到GitHub上面。
 
-![1705458108708](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705458108708.png)
+![1705458108708](image/1705458108708.png)
 
 之后修改本地文件，就可以先推送到本地git之后再远程同步到GitHub仓库中。
 
 （1）选择对应的分支
 
-![1705458651469](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705458651469.png)
+![1705458651469](image/1705458651469.png)
 
 （2）点击推送
 
-![1705458678557](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705458678557.png)
+![1705458678557](image/1705458678557.png)
 
 （3）也可以先在GitHub上面创建远程仓库，之后再拉取到本地保持统一。
 
-![1705459375393](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705459375393.png)
+![1705459375393](image/1705459375393.png)
 
-![1705459556035](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705459556035.png)
+![1705459556035](image/1705459556035.png)
 
 （4）拉取远程仓库到本地
 
-![1705459822148](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705459822148.png)
+![1705459822148](image/1705459822148.png)
 
 点击克隆即可，连接完成远程仓库和本地Git之后，在本地修改文件提交Git之后再push推送即可完成同步。
 
-![1705459901802](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705459901802.png)
+![1705459901802](image/1705459901802.png)
 
 ## 3. Gitee替代GitHub
 
 GitHub的网站有时候会连接不上，无法登录。可以使用阿里提供的Git远程仓库网站Gitee来代替。
 
-![1705460369930](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705460369930.png)
+![1705460369930](image/1705460369930.png)
 
 登录账号之后创建新的仓库
 
-![1705461501846](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705461501846.png)
+![1705461501846](image/1705461501846.png)
 
 同步远程Gitee仓库的方式和同步GitHub仓库方法完全一致。
 
-![1705461596842](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705461596842.png)
+![1705461596842](image/1705461596842.png)
 
 ## 4. idea兼容使用Git（JAVA代码）
 
 （1）首先在idea中创建一个空的项目
 
-![1705461792030](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705461792030.png)
+![1705461792030](image/1705461792030.png)
 
 （2）编写基础的JAVA代码Hello world
 
-![1705462825829](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705462825829.png)
+![1705462825829](image/1705462825829.png)
 
 （3）此时会产生IDEA中的特定文件
 
-![1705462906032](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705462906032.png)
+![1705462906032](image/1705462906032.png)
 
 （4） 配置Git忽略文件
 
@@ -505,11 +505,11 @@ GitHub的网站有时候会连接不上，无法登录。可以使用阿里提�
 
 （6） 定位Git程序
 
-![1705471200362](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705471200362.png)
+![1705471200362](image/1705471200362.png)
 
 （7）初始化本地库
 
-![1705471441919](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705471441919.png)
+![1705471441919](image/1705471441919.png)
 
 
 
@@ -517,9 +517,9 @@ GitHub的网站有时候会连接不上，无法登录。可以使用阿里提�
 
 右键点击项目选择Git -> Add将项目添加到暂存区。
 
-![1705471545505](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705471545505.png)
+![1705471545505](image/1705471545505.png)
 
-![1705472084800](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705472084800.png)
+![1705472084800](image/1705472084800.png)
 
  
 
@@ -533,13 +533,13 @@ GitHub的网站有时候会连接不上，无法登录。可以使用阿里提�
 
 右键选择要切换的版本，然后在菜单里点击get。
 
-![1705472349179](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705472349179.png)
+![1705472349179](image/1705472349179.png)
 
 # 第5章 GitLab的部署与使用    
 
 ## 1.为什么使用GitLab-开发运维一体化
 
-![1705554047925](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705554047925.png)
+![1705554047925](image/1705554047925.png)
 
 ## 2. 部署安装GitLab
 
@@ -697,7 +697,7 @@ sudo gitlab-ctl stop
 
 默认使用80端口，直接浏览器输入安装服务器的hostname或ip：hadoop104
 
-![1706067954154](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1706067954154.png)
+![1706067954154](image/1706067954154.png)
 
 2）查看root密码
 
@@ -895,13 +895,13 @@ ssh-keygen -t rsa -C ergou@atguigu.com
 
 ### 3.1 idea与远程仓库连接
 
-![1705473717653](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705473717653.png)
+![1705473717653](image/1705473717653.png)
 
 ### 3.2 不同分支的提交与合并
 
 （1）新建分支和切换分支
 
-![1706087127924](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1706087127924.png)
+![1706087127924](image/1706087127924.png)
 
 （2）不同分支提交代码与合并
 
@@ -920,13 +920,13 @@ public class module1 {
 
 （3）合并feature到develop分支
 
-![1706088019573](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1706088019573.png)
+![1706088019573](image/1706088019573.png)
 
-![1706088077244](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1706088077244.png)
+![1706088077244](image/1706088077244.png)
 
 审查测试通过之后，完成合并
 
-![1706087991195](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1706087991195.png)
+![1706087991195](image/1706087991195.png)
 
 # 第7章 冲突提交
 
@@ -936,7 +936,7 @@ public class module1 {
 
 （1）在远程仓库添加gitLab.txt
 
-![1706146898301](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1706146898301.png)
+![1706146898301](image/1706146898301.png)
 
 （2）在本地IDEA中添加代码，继续进行第二个模块的开发
 
@@ -950,13 +950,13 @@ public class Module2 {
 
 （3）提交代码到远程仓库，此时会有报错信息
 
-![1705549702169](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705549702169.png)
+![1705549702169](image/1705549702169.png)
 
 Git会智能识别，采用merge合并命令，拉取远端文件到本地进行合并。
 
 （4）查看Git提交的全部历史记录，可以看到中间有拉取Gitee日志的部分
 
-![1706146278780](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1706146278780.png)
+![1706146278780](image/1706146278780.png)
 
 
 
@@ -986,19 +986,19 @@ public class Module1 {
 
 （3）提交代码，之后push到远程仓库
 
-![1705550474743](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705550474743.png)
+![1705550474743](image/1705550474743.png)
 
 同样可以采用merge命令，git会自动合并不同的区域代码。
 
-![1706146956838](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1706146956838.png)
+![1706146956838](image/1706146956838.png)
 
-![1706146975271](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1706146975271.png)
+![1706146975271](image/1706146975271.png)
 
 ## 3. 不同人修改同文件的相同区域
 
 （1）远程仓库添加模块开发顺利
 
-![1705551269043](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705551269043.png)
+![1705551269043](image/1705551269043.png)
 
 （2）本地IDEA添加模块开发遇到了bug
 
@@ -1013,13 +1013,13 @@ public class module1 {
 }
 ```
 
-![1705551516941](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705551516941.png)
+![1705551516941](image/1705551516941.png)
 
 无法直接采用merge命令，需要人为判断哪些作为最终的结果来保留
 
 （3）之后需要重新提交到远程仓库
 
-![1705551702149](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705551702149.png)
+![1705551702149](image/1705551702149.png)
 
 
 
@@ -1041,7 +1041,7 @@ public class Module1plus {
 
 （3）提交代码修改到远程仓库
 
-![1705552452300](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705552452300.png)
+![1705552452300](image/1705552452300.png)
 
 可以直接提交成功。
 
@@ -1053,11 +1053,11 @@ public class Module1plus {
 
 （3）提交到远程仓库
 
-![1705552598042](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705552598042.png)
+![1705552598042](image/1705552598042.png)
 
 （4）需要手动宣传使用哪一个
 
-![1705552665960](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705552665960.png)
+![1705552665960](image/1705552665960.png)
 
 push会导致报错，之后需要用户自己解决保留哪些文件。
 
@@ -1071,19 +1071,19 @@ C:\mybigdata\project\gitlab_demo>git rm src/main/java/com/atguigu/Module1Plus.ja
 
 （6）最后重新选择正确的代码提交到仓库
 
-![1706151049392](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1706151049392.png)
+![1706151049392](image/1706151049392.png)
 
 # 第8章 GitLab功能拓展
 
 ## 1. 使用GitLab完成code review
 
-![11170555705557549518](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705557561370.png)
+![11170555705557549518](image/1705557561370.png)
 
 ## 2. CICD部署程序
 
 使用gitLab的自动部署功能，可以快速实现自动部署，完成运行。
 
-![1705557925090](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705557925090.png)
+![1705557925090](image/1705557925090.png)
 
 ## 3. 安装gitLab-runner
 
@@ -1115,15 +1115,15 @@ shell
 
 token的位置
 
-![1705896052634](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705896052634.png)
+![1705896052634](image/1705896052634.png)
 
 注册完成之后，runner就已经上线了。
 
-![1705896287765](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705896287765.png)
+![1705896287765](image/1705896287765.png)
 
-![1705557817529](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705557817529.png)
+![1705557817529](image/1705557817529.png)
 
-![1705898035403](image/%5CUsers%5Cmerge%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1705898035403.png)
+![1705898035403](image/1705898035403.png)
 
 
 
