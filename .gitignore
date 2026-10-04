@@ -10,3 +10,8 @@ k8s/叩丁狼/软件与配置-harbor-offline-installer-v2.5.0.tgz
 k8s/叩丁狼/软件与配置-helm-v3.10.2-linux-amd64.tar.gz
 分布式锁/工具/
 redis/基础篇/8.Redis复制(replica)/redis-windows-master.zip
+
+# Java / IntelliJ 构建产物与 IDE 配置
+**/target/
+.idea/
+*.iml
