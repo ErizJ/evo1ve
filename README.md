@@ -26,6 +26,7 @@ Every course is a puzzle piece. The notes are the edges that connect them, and o
 | `xiaolincoding/` | 小林 coding 学习资料 · 官方链接索引 |
 | `gin/` | Go Gin Web 框架 |
 | `grpc/` | gRPC 远程调用框架 |
+| `jev/` | Jev 决策模型学习笔记 |
 | `distributed-lock/` | 分布式锁专题 |
 | `recommender-systems/` | 深度学习推荐系统 |
 
